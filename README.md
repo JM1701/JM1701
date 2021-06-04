@@ -5,3 +5,9 @@
 -->
 
 I'm a Jr FrontEnd developer and UI designer.
+
+#### Where to find me
+
+- [Linkedin](https://www.linkedin.com/in/jm1701)
+- [Instagram](https://instagram.com/jm_mirabal)
+- [Facebook](https://facebook.com/jm1701)
