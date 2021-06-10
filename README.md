@@ -1,4 +1,4 @@
-# :wave: Hi there, my name is Jose Mirabal.
+# :wave: Hello there, my name is Jose Mirabal.
 
 :computer: I'm a FrontEnd developer and UI Designer.
 
