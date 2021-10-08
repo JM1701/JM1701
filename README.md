@@ -16,11 +16,3 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-424242?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=222&color=0A66C2)](https://linkedin.com/in/JM1701)
 [![Instagram](https://img.shields.io/badge/Instagram-424242?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=222&color=E4405F)](https://instagram.com/jm_mirabal)
 [![Facebook](https://img.shields.io/badge/Facebook-424242?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=222&color=1877F2)](https://facebook.com/JM1701)
-
-<table border="0">
-  <tr>
-    <td>hola</td>
-    <td>hola</td>
-    <td>hola</td>
-  </tr>
-</table>
