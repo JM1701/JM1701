@@ -12,11 +12,11 @@
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-424242?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=222&color=7952B3)]()
 
-[![NodeJS](https://img.shields.io/badge/Node_JS-424242?style=for-the-badge&logo=node.js&logoColor=61DAFB&labelColor=222&color=61DAFB)]()
+[![NodeJS](https://img.shields.io/badge/Node_JS-424242?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=222&color=339933)]()
 
-[![ReactJS](https://img.shields.io/badge/React_JS-424242?style=for-the-badge&logo=react&logoColor=339933&labelColor=222&color=339933)]()
+[![ReactJS](https://img.shields.io/badge/React_JS-424242?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=222&color=61DAFB)]()
 
-[![Electron](https://img.shields.io/badge/Electron_JS-424242?style=for-the-badge&logo=electron&logoColor=9EE9F8&labelColor=222&color=9EE9F8)]()
+[![Electron](https://img.shields.io/badge/Electron_JS-424242?style=for-the-badge&logo=electron&logoColor=47848F&labelColor=222&color=47848F)]()
 
 ## Where to find me
 [![Linkedin](https://img.shields.io/badge/Linkedin-424242?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=222&color=0A66C2)](https://linkedin.com/in/JM1701)
