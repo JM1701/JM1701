@@ -9,7 +9,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-424242?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=222&color=F7DF1E)]()
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-424242?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=222&color=7952B3)]()
-[![NodeJS](https://img.shields.io/badge/NODEJS-424242?style=for-the-badge&logo=node-dot-js&logoColor=339933&labelColor=222&color=339933)]()
+[![NodeJS](https://img.shields.io/badge/NODE-424242?style=for-the-badge&logo=node-dot-js&logoColor=339933&labelColor=222&color=339933)]()
 [![Electron](https://img.shields.io/badge/Electron_JS-424242?style=for-the-badge&logo=electron&logoColor=9EE9F8&labelColor=222&color=9EE9F8)]()
 
 ## Where to find me
