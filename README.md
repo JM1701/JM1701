@@ -14,7 +14,7 @@
 
 [![NodeJS](https://img.shields.io/badge/Node_JS-424242?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=222&color=339933)]()
 
-[![ReactJS](https://img.shields.io/badge/React_JS-424242?style=for-the-badge&logo=react.js&logoColor=339933&labelColor=222&color=339933)]()
+[![ReactJS](https://img.shields.io/badge/React_JS-424242?style=for-the-badge&logo=reactjs&logoColor=339933&labelColor=222&color=339933)]()
 
 [![Electron](https://img.shields.io/badge/Electron_JS-424242?style=for-the-badge&logo=electron&logoColor=9EE9F8&labelColor=222&color=9EE9F8)]()
 
