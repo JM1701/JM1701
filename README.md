@@ -9,7 +9,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-424242?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=222&color=F7DF1E)]()
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-424242?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=222&color=7952B3)]()
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=222&color=7952B3)]()
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=222&color=7952B3)]()
 
 [![ReactJS](https://img.shields.io/badge/React_JS-424242?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=222&color=61DAFB)]()
 [![NodeJS](https://img.shields.io/badge/Node_JS-424242?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=222&color=339933)]()
